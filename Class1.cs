@@ -6,5 +6,8 @@ namespace ConsoleApp8
 {
     class Class1
     {
+        public void Funckija()
+        { 
+        }
     }
 }
