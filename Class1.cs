@@ -6,5 +6,6 @@ namespace ConsoleApp8
 {
     class Class1
     {
+        public String a;
     }
 }
